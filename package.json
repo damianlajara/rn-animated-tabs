@@ -17,7 +17,7 @@
     "animated-tabs",
     "segmented-view"
   ],
-  "author": "Damian Lajara",
+  "author": "Damian Lajara <damian.lajara519@gmail.com>",
   "license": "ISC",
   "peerDependencies": {
     "react": "^15.4.2",
