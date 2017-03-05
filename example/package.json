@@ -11,7 +11,7 @@
 		"react-native": "0.42.0",
 		"react-native-router-flux": "^3.38.0",
     "react-swipeable-views-native": "^0.11.1",
-    "rn-animated-tabs": "git+https://github.com/damianlajara/rn-animated-tabs.git"
+    "rn-animated-tabs": "file:../"
 	},
 	"devDependencies": {
 		"babel-jest": "19.0.0",

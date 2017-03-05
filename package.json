@@ -11,13 +11,13 @@
     "android",
     "ios",
     "tab",
-    "tab-view",
-    "tab-bar",
-    "animated-tab",
-    "animated-tabs",
-    "segmented-view"
+    "tab view",
+    "tabbar",
+    "animated tab",
+    "animated tabs",
+    "segmented view"
   ],
-  "author": "Damian Lajara <damian.lajara519@gmail.com>",
+  "author": "Damian Lajara <damian.lajara519@gmail.com> (https://github.com/damianlajara)",
   "license": "ISC",
   "peerDependencies": {
     "react": "^15.4.2",
