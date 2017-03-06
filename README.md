@@ -12,12 +12,9 @@ npm i rn-animated-tabs -S
 Make sure to check out the full working [demo](https://github.com/damianlajara/rn-animated-tabs/tree/master/example) for more usage. It shows how to customize and align the tabbar in different positions.
 
 ## Examples
-### Default Use Case
+You can check out the [docs folder](https://github.com/damianlajara/rn-animated-tabs/tree/master/example/docs) for more gifs/screenshots
+
 ![toptab](docs/toptab.gif)
-### Extra Use Cases (taken from demo)
-![bottomtab](docs/bottomtab.gif)
-![customtab](docs/customtab.gif)
-![scrollabletab](docs/scrollabletab.gif)
 
 ### Code Example
 
