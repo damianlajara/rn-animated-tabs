@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-tabs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native animated tab bar",
   "main": "index.js",
   "scripts": {

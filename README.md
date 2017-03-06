@@ -11,8 +11,12 @@ npm i rn-animated-tabs -S
 
 Make sure to check out the full working [demo](https://github.com/damianlajara/rn-animated-tabs/tree/master/example) for more usage. It shows how to customize and align the tabbar in different positions.
 
+### Running the Demo
+1. `cd example`
+2. `npm i && react-native run-[android|ios]`
+
 ## Examples
-You can check out the [docs folder](https://github.com/damianlajara/rn-animated-tabs/tree/master/example/docs) for more gifs/screenshots
+You can check out the [docs folder](https://github.com/damianlajara/rn-animated-tabs/tree/master/docs) for more gifs/screenshots
 
 ![toptab](docs/toptab.gif)
 
