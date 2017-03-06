@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native animated tab bar",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,8 @@
   },
   "keywords": [
     "react-native",
+    "react-component",
+    "react-native-component",
     "android",
     "ios",
     "tab",
@@ -17,6 +19,10 @@
     "animated tabs",
     "segmented view"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianlajara/rn-animated-tabs.git"
+  },
   "author": "Damian Lajara <damian.lajara519@gmail.com> (https://github.com/damianlajara)",
   "license": "ISC",
   "peerDependencies": {
