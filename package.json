@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-tabs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native animated tab bar",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,12 @@
     "type": "git",
     "url": "git+https://github.com/damianlajara/rn-animated-tabs.git"
   },
-  "author": "Damian Lajara <damian.lajara519@gmail.com> (https://github.com/damianlajara)",
+  "author":
+    "Damian Lajara <damian.lajara519@gmail.com> (https://github.com/damianlajara)",
   "license": "ISC",
   "peerDependencies": {
     "react": "^15.4.2",
-    "react-native": "^0.42.0"
+    "react-native": "^0.42.0",
+    "prop-types": "^15.5.10"
   }
 }
